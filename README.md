@@ -14,3 +14,18 @@ To identify patterns and trends in loan approvals and rejections.
 To analyze customer financial behavior (income, credit history, loan amount, etc.).
 
 To create data visualizations that support decision-making.
+
+
+## 🧰 Tools & Technologies
+
+Programming Language: Python
+
+Libraries Used:
+
+pandas – for data cleaning and manipulation
+
+numpy – for numerical analysis
+
+matplotlib / seaborn – for visualization
+
+plotly – for interactive charts (optional)
