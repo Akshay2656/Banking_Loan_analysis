@@ -60,3 +60,8 @@ numpy – for numerical analysis
 matplotlib / seaborn – for visualization
 
 plotly – for interactive charts (optional)
+
+
+## Concusion
+
+The strongest positive correlation occur among "Bank Deposits" with "Checking Accounts", "Saving Accounts" and "Foreign Currency Account" indicating that customers who maintain high balances in one account type often hold substantial amount/funds across other accounts as well.
