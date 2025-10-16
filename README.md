@@ -59,7 +59,7 @@ numpy – for numerical analysis
 
 matplotlib / seaborn – for visualization
 
-plotly – for interactive charts (optional)
+plotly – for interactive charts 
 
 
 ## Concusion
